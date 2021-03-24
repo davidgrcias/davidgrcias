@@ -123,6 +123,12 @@
      <a href = "https://en.wikipedia.org/wiki/Adobe_Photoshop" target = "_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" alt="Adobe Photoshop" width="40" height="40" style="max-width:100%;" title = "Adobe Photoshop"></a>
    </p>
   <br>
+  <br>
+  <p>
+    <a href = "https://www.youtube.com/channel/UCDRagVrqj_v2Wbf_UFfTluw" style = "text-decoration: none;" target = "_blank" title = "Original Website" alt = "Original Website">
+      <code> My Youtube Channel </code>
+    </a>
+  </p>
 </body>
 </html>
 
