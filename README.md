@@ -125,7 +125,7 @@
   <br>
   <br>
   <p>
-    <a href = "https://www.youtube.com/channel/UCDRagVrqj_v2Wbf_UFfTluw" style = "text-decoration: none;" target = "_blank" title = "Original Website" alt = "Original Website">
+    <a href = "https://www.youtube.com/channel/UCDRagVrqj_v2Wbf_UFfTluw" style = "text-decoration: none;" target = "_blank" title = "My Youtube Channel" alt = "My Youtube Channel">
       <code> My Youtube Channel </code>
     </a>
   </p>
