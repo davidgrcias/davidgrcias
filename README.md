@@ -30,8 +30,7 @@
     <a href = "#planning-on" style = "text-decoration: none;">Reddit</a>,
     <a href = "#planning-on" style = "text-decoration: none;">LinkedIn</a>,
     <a href = "#planning-on" style = "text-decoration: none;">Twitch</a>,
-    <a href = "#planning-on" style = "text-decoration: none;">Codecademy</a>,
-    and <a href = "#planning-on" style = "text-decoration: none;">TikTok</a>.
+    <a href = "#planning-on" style = "text-decoration: none;">Codecademy</a>.
   </div> <!-- hello-world -->
 <p>
   <div id = "alittle-aboutme">
@@ -99,7 +98,6 @@
     <a href="https://www.linkedin.com/in/david-g-s-085407206/" title = "David's LinkedIn Account" target = "_blank" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="David GS" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;"></a>
     <a href="https://www.twitch.tv/davidgarcias13" title = "David's Twitch Account" target = "_blank" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="davidgarcias13" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" style="max-width:100%;"></a><br>
     <a href="https://www.codecademy.com/profiles/davidG.S7787522435" title = "David's Codecademy Account" target = "_blank" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg" alt="David G.S" height="36" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg" style="max-width:100%;"></a>
-    <a href="https://www.tiktok.com/@davidgrcias?" title = "David's TikTok Account" target = "_blank" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="davidgrcias" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" style="max-width:100%;"></a>
   <div id = "programming-languages">
    <h3 align="center">
      Programming Languages:
