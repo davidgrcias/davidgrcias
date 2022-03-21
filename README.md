@@ -18,9 +18,6 @@
   <ul>
     <li> Aiming to a Software Engineering major in <a href = "https://www.ui.ac.id/en/" style="text-decoration: none;" target = "_blank"> Indonesian University</a>. </li>
     <li> I currently attend a <a href = "https://cintakasihtzuchi.sch.id/" style="text-decoration: none;" target = "_blank"> Cinta Kasih Tzu Chi </a> Vocational School. </li>
-    <li> I really like to coding, because it very colorful and trains my ability. </li>
-    <li> I was introduced to programming in 10th grade on 14 years old 9 months. </li>
-    <li> I am a website developer of <a href = "https://sites.google.com/view/shalomlaundry" style="text-decoration: none;" target = "_blank"> Shalom Laundry</a>. </li>
     <li> I am a <a href = "https://www.youtube.com/channel/UCDRagVrqj_v2Wbf_UFfTluw" style="text-decoration: none;" target = "_blank">Youtuber</a>. </li>
     <li> My Hobbies :
      <ul>
@@ -31,11 +28,6 @@
     </li>
   </ul>
   <hr>
-  <div id = "connect-me">
-    <h3 align="center">
-      Connect With Me:
-    </h3>
-  </div> <!-- connect-me -->
   <p align="center">
   <div id = "programming-languages">
    <h3 align="center">
