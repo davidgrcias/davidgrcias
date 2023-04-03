@@ -16,7 +16,6 @@
     </h2>
   </div>
   <ul>
-    <li> Aiming to a Software Engineering major in <a href = "https://www.ui.ac.id/en/" style="text-decoration: none;" target = "_blank"> Indonesian University</a>. </li>
     <li> I currently attend a <a href = "https://cintakasihtzuchi.sch.id/" style="text-decoration: none;" target = "_blank"> Cinta Kasih Tzu Chi </a> Vocational School. </li>
     <li> I am a <a href = "https://www.youtube.com/channel/UCDRagVrqj_v2Wbf_UFfTluw" style="text-decoration: none;" target = "_blank">Youtuber</a>. </li>
     <li> My Hobbies :
