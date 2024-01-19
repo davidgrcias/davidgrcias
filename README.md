@@ -16,15 +16,15 @@
     </h2>
   </div>
   <ul>
-    <li> I currently attend a <a href = "https://cintakasihtzuchi.sch.id/" style="text-decoration: none;" target = "_blank"> Cinta Kasih Tzu Chi </a> Vocational School. </li>
-    <li> I am a <a href = "https://www.youtube.com/channel/UCDRagVrqj_v2Wbf_UFfTluw" style="text-decoration: none;" target = "_blank">Youtuber</a>. </li>
-    <li> My Hobbies :
-     <ul>
-        <li> Making Videos for Youtube </li>
-        <li> Studying </li>
-        <li> Watching Videos and Movies </li>
-      </ul>
-    </li>
+    <li> I am currently attending <a href="https://www.umn.ac.id/" style="text-decoration: none;" target="_blank">Multimedia Nusantara University</a> majoring in Informatics. </li>
+      <li> I am a <a href="https://www.youtube.com/channel/UCDRagVrqj_v2Wbf_UFfTluw" style="text-decoration: none;" target="_blank">Youtuber</a>. </li>
+      <li> My Hobbies :
+        <ul>
+          <li> Making Videos for Youtube </li>
+          <li> Studying </li>
+          <li> Watching Videos and Movies </li>
+        </ul>
+      </li>
   </ul>
   <hr>
   <p align="center">
