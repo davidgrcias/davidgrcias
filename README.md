@@ -3,10 +3,10 @@
 <head>
 </head>
 <body>
-  <h1> Hello and Welcome :) </h1>
+  <h1> Hi there! David here. </h1>
 <p>
   <div id = "hello-world">
-    My name is David Garcia Saragih, I am an Indonesian. I was born on 13 September 2005. I am always interested in taking part new projects and gaining new skills. 
+    Creative and driven Programmer & Content Creator with a strong passion for technology and continuous learning. Skilled in building real-world applications and quickly adapting to various tools and tech stacks, well beyond just web development. Often leads end-to-end project execution and actively shares knowledge through engaging tech content on platforms like YouTube and TikTok, reaching and inspiring a wide range of audiences. Also passionate about digital entrepreneurship, as shown through founding and managing independent tech-driven initiatives.
   </div> <!-- hello-world -->
 <p>
   <div id = "alittle-aboutme">
