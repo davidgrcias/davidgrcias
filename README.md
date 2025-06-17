@@ -9,22 +9,6 @@
     Creative and driven Programmer & Content Creator with a strong passion for technology and continuous learning. Skilled in building real-world applications and quickly adapting to various tools and tech stacks, well beyond just web development. Often leads end-to-end project execution and actively shares knowledge through engaging tech content on platforms like YouTube and TikTok, reaching and inspiring a wide range of audiences. Also passionate about digital entrepreneurship, as shown through founding and managing independent tech-driven initiatives.
   </div> <!-- hello-world -->
 <p>
-  <div id = "alittle-aboutme">
-    <h2>
-      A Little About Me:
-    </h2>
-  </div>
-  <ul>
-    <li> I am currently attending <a href="https://www.umn.ac.id/" style="text-decoration: none;" target="_blank">Multimedia Nusantara University</a> majoring in Informatics. </li>
-      <li> I am a <a href="https://www.youtube.com/channel/UCDRagVrqj_v2Wbf_UFfTluw" style="text-decoration: none;" target="_blank">Youtuber</a>. </li>
-      <li> My Hobbies :
-        <ul>
-          <li> Making Videos for Youtube </li>
-          <li> Studying </li>
-          <li> Watching Videos and Movies </li>
-        </ul>
-      </li>
-  </ul>
   <hr>
   <p align="center">
   <div id = "programming-languages">
