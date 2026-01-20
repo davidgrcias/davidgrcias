@@ -66,9 +66,6 @@ Led the development of the official ticketing and event management platform.
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidgrcias&show_icons=true&theme=minimal&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgrcias&layout=compact&theme=minimal&hide_border=true&langs_count=6" width="48%" />
+  <i>Open to collaboration and new opportunities. Let's connect!</i>
 </div>
